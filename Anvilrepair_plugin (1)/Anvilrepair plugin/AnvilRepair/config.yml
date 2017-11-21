@@ -1,5 +1,5 @@
 # Valor para reparar o item!
-reparar-money-cost: 50
+reparar-money-cost: 1000
 
 # Mensagens
 msg-tap: "§bEşya Tamir edilmeye Basladı §7TL"
