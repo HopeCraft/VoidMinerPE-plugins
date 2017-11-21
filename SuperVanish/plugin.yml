@@ -10,4 +10,4 @@ commands:
 permissions:
   supervanish.spectate:
     description: "Vanish use perm"
-    default: op
+    default: guest
